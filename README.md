@@ -1,4 +1,3 @@
-Project Description
 The dataset describes the chemical properties of glass and involves classifying samples of glass using their chemical properties as one of six classes. The dataset was credited to Vina Spiehler in 1987. The study of classification of types of glass was motivated by criminological investigation. At the scene of the crime, the glass left can be used as evidence...if it is correctly identified!
 
 The chemical compositions are measured as the weight percent in corresponding oxide.
